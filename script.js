@@ -57,5 +57,3 @@ function deletePost(id) {
 deletePost(3); // 1, 2, 4 filtered
 
 console.log(getPosts());
-
-// a
